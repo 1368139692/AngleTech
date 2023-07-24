@@ -1,0 +1,3614 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Machines
+ANGLE_TECH_END_FACTOR_MACHINE:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&b终界解析机'
+  machine-lore:
+  - ''
+  - '&7将终界元素解析为终界因子'
+  block-type: SKULL583fab543476fd1624568594804af5ccbe7dab1da64846d4c78806ff79a29615
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 32
+    energy-buffer: 320
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANDROID_MEMORY_CORE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    '4':
+      type: VANILLA
+      id: OBSERVER
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SMALL_CAPACITOR
+      amount: 1
+    '6':
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: END_STONE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_END_FACTOR_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: CHORUS_FRUIT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_END_FACTOR_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_NETHER_FACTOR_MACHINE:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&b下界解析机'
+  machine-lore:
+  - ''
+  - '&7将下界元素解析为下界因子'
+  block-type: SKULL1a8764ff9794fcd9aac5d1da436a1e216596800f14a0a045ece04c11643d11e8
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 32
+    energy-buffer: 320
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANDROID_MEMORY_CORE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    '4':
+      type: VANILLA
+      id: OBSERVER
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SMALL_CAPACITOR
+      amount: 1
+    '6':
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERRACK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_NETHER_FACTOR_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: NETHER_WART
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_NETHER_FACTOR_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: BLAZE_ROD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_NETHER_FACTOR_3
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_LATHE_1:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e倾斜车床 X-1'
+  machine-lore:
+  - ''
+  - '&7可加工级别1的倾斜资源'
+  block-type: SKULL77a36b2e6e070c3dfa1c25719b376fa02d584d70206d18a569a79baa72e70928
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 128
+    energy-buffer: 1280
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_0
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_EINSTON
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_0
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_FACTOR
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: BIG_CAPACITOR
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_0
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: BIG_CAPACITOR
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: REINFORCED_PLATE
+          amount: 8
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_HOUSING_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CPU_0
+          amount: 4
+        '2':
+          type: SLIMEFUN
+          id: REDSTONE_ALLOY
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CPU_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: REINFORCED_ALLOY_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_EINSTON
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CPU_1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_PROBE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_REDSTONE_ALLOY_PLATE
+          amount: 4
+        '2':
+          type: SLIMEFUN
+          id: CARBONADO_EDGED_CAPACITOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CAPACITORS_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_REDSTONE_ALLOY_PLATE
+          amount: 4
+        '2':
+          type: SLIMEFUN
+          id: CARBONADO_EDGED_CAPACITOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CAPACITORS_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_LATHE_2:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e倾斜车床 X-2'
+  machine-lore:
+  - ''
+  - '&7可加工级别2的倾斜资源'
+  block-type: SKULLe69ebb6c454c2e20d2f5317aa8f09cd8333614da9eb0dcc27cfdc7fa0000c4a1
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 256
+    energy-buffer: 5120
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_1
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_1
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_LATHE_1
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_1
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_1
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_1
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: REINFORCED_ALLOY_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_HOUSING_1
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_PLATE
+          amount: 4
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_HOUSING_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CPU_1
+          amount: 4
+        '2':
+          type: SLIMEFUN
+          id: REDSTONE_ALLOY
+          amount: 4
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CPU_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_EINSTON
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CPU_1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_PROBE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_REDSTONE_ALLOY_PLATE
+          amount: 4
+        '2':
+          type: SLIMEFUN
+          id: CARBONADO_EDGED_CAPACITOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CAPACITORS_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: REINFORCED_PLATE
+          amount: 8
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_HOUSING_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CPU_0
+          amount: 4
+        '2':
+          type: SLIMEFUN
+          id: REDSTONE_ALLOY
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CPU_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_REDSTONE_ALLOY_PLATE
+          amount: 4
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CAPACITORS_1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CAPACITORS_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_COMPILE_MACHINES_1:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e编译器 X-1'
+  machine-lore:
+  - ''
+  - '&7将灵感编译为机器蓝图'
+  - '&7可编译级别1的机器'
+  block-type: SKULL49095ed631201cf2eaf66f628445c23e8e2b6370ef3f5ff132721685a8ebc198
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 64
+    energy-buffer: 5120
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_1
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_INGOT
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_1
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_INGOT
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_1
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_1
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_1
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_2
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_3
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_3
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_4
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_4
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_5
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_5
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_7
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_7
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_8
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_8
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_11
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_11
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_12
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_12
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '10':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_14
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_14
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '11':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_15
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_15
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_COMPILE_MACHINES_2:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e编译器 X-2'
+  machine-lore:
+  - ''
+  - '&7将灵感编译为机器蓝图'
+  - '&7可编译级别2的机器'
+  block-type: SKULL49095ed631201cf2eaf66f628445c23e8e2b6370ef3f5ff132721685a8ebc198
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 128
+    energy-buffer: 5120
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_PLATE
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_2
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_PLATE
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_INGOT
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_2
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_INGOT
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_1
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_2
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_3
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_3
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_4
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_4
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_5
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_5
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_6
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_6
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_7
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_7
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_8
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_8
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_9
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_9
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '10':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_10
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_10
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '11':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_11
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_11
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '12':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_12
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_12
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '13':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_13
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_13
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '14':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_14
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_14
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '15':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_15
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_15
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '16':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_16
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_16
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '17':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_17
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_17
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '18':
+      speed-in-seconds: 120
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_INSPIRATION_18
+          amount: 3
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BULEPRINT_18
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_9:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e高斯赋磁机 X-2'
+  machine-lore:
+  - ''
+  - '&7赋予物品强大磁性'
+  - '&7将物品的磁性提取出来'
+  block-type: SKULL7999050775dd5a524735284cbbac45aa392c0ac8fa980bd24c331552b654b824
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 64
+    energy-buffer: 320
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MAGNET_1
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MAGNET_1
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_9
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MAGNET_1
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_2
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MAGNET_1
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MAGNET
+          amount: 8
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_GAUSSIAN_POWER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 8
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_GAUSSIAN_POWER
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MAGNET
+          amount: 8
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ELECTRIC_MOTOR
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_GAUSSIAN_POWER
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_MOTOR_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_GAUSSIAN_POWER
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_GAUSSIAN_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_10:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e艾因斯通赋能机 X-2'
+  machine-lore:
+  - ''
+  - '&7赋予物品强大能量'
+  block-type: SKULLe64f2601435a4a2fa3a6d45ba03ec6930857f7738a9111eadde90b6db4531d0b
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 256
+    energy-buffer: 5120
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MAGNET_1
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MAGNET_1
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_10
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MAGNET_1
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_2
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MAGNET_1
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_FACTOR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_EINSTON_POWER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_EINSTON_POWER
+          amount: 8
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ENERGY_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_EINSTON_POWER
+          amount: 16
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_PROBE
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_PROBE_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_14:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e工具锻造台 X-1'
+  machine-lore:
+  - ''
+  - '&7锻造倾斜武器&工具'
+  block-type: SKULLd3567ac356302583147f464af21dcb5d7ebcb22aab2847554c79b751f5bf48
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 64
+    energy-buffer: 640
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_1
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_1
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_14
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_1
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_1
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_1
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_SWORD
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_SWORD_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_PICKAXE
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_PICKAXE_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_AXE
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_AXE_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_SHOVEL
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_SHOVEL_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: BOW
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BOW_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_14_2:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e工具锻造台 X-2'
+  machine-lore:
+  - ''
+  - '&7锻造倾斜武器&工具'
+  block-type: SKULLd3567ac356302583147f464af21dcb5d7ebcb22aab2847554c79b751f5bf48
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 64
+    energy-buffer: 640
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_2
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE_2
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_2
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ENERGY_PLATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ENERGY_PLATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_2
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_SWORD
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_SWORD_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_PICKAXE
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_PICKAXE_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_AXE
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_AXE_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_SHOVEL
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_SHOVEL_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: BOW
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BOW_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 180
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_SWORD_1
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_EINSTON_POWER
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_SWORD_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 180
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_AXE_1
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_EINSTON_POWER
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_AXE_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 180
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BOW_1
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_EINSTON_POWER
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BOW_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_15:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e护甲锻造台 X-1'
+  machine-lore:
+  - ''
+  - '&7锻造倾斜护甲'
+  block-type: SKULL93537c73aeabd81b81156c812852a5cf35281ad82b2af25e7cbb493d4bfb
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 64
+    energy-buffer: 640
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_1
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_1
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_15
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_1
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_1
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_1
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_HELMET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_HELMET_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_CHESTPLATE
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CHESTPLATE_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_LEGGINGS
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_LEGGINGS_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_BOOTS
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BOOTS_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_15_2:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e护甲锻造台 X-2'
+  machine-lore:
+  - ''
+  - '&7锻造倾斜护甲'
+  block-type: SKULL93537c73aeabd81b81156c812852a5cf35281ad82b2af25e7cbb493d4bfb
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 64
+    energy-buffer: 640
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_2
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE_2
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_2
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANGLE_TECH_GAUSSIAN_PLATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_15
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANGLE_TECH_GAUSSIAN_PLATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_2
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_HELMET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_HELMET_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_CHESTPLATE
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CHESTPLATE_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_LEGGINGS
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_LEGGINGS_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_BOOTS
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_ANGLE_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BOOTS_1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 180
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_HELMET_1
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_GAUSSIAN_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_HELMET_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 180
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CHESTPLATE_1
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_GAUSSIAN_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_CHESTPLATE_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 180
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_LEGGINGS_1
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_GAUSSIAN_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_LEGGINGS_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 180
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BOOTS_1
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ANGLE_TECH_GAUSSIAN_INGOT
+          amount: 8
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_BOOTS_2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_6:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e倾斜矿机 X-2'
+  machine-lore:
+  - ''
+  - '&7源源不断地产出矿物'
+  block-type: SKULL5ce27e9eec871a47361c94f70e7e2379d41af421c764d780856bb709bc5884b6
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 512
+    energy-buffer: 2560
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_2
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MOTOR_1
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_6
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MOTOR_1
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PICKAXE_2
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_2
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PICKAXE_2
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: COAL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COAL
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: REDSTONE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: REDSTONE
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: EMERALD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: EMERALD
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: LAPIS_LAZULI
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: LAPIS_LAZULI
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHERITE_INGOT
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '10':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: QUARTZ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: QUARTZ
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_18:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&e倾斜粉尘机 X-2'
+  machine-lore:
+  - ''
+  - '&7源源不断地产出矿粉'
+  block-type: SKULL59a30577907a13bad67c096069f96e53fb21ee2750174e42d1c7626f35ec1543
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 512
+    energy-buffer: 2560
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_2
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MOTOR_1
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_18
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANGLE_TECH_MOTOR_1
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PICKAXE_2
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_2
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PICKAXE_2
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_DUST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_DUST
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_DUST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_DUST
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: IRON_DUST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: IRON_DUST
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_DUST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_DUST
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_DUST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_DUST
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_DUST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_DUST
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_DUST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_DUST
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_DUST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_DUST
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_DUST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_DUST
+          amount: 33
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_1:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&a土壤转换机 I-0'
+  machine-lore:
+  - ''
+  - '&7将各种土壤互相转换'
+  block-type: SKULL26440ab7c2821b6913e54905ba514cfabaf4d025618f328759b5906974c7e7cb
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 2
+    energy-buffer: 64
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: NONE
+      id: N/A
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_1
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_0
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 2
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DIRT
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 2
+      input:
+        '1':
+          type: VANILLA
+          id: DIRT
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GRASS_BLOCK
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 2
+      input:
+        '1':
+          type: VANILLA
+          id: GRASS_BLOCK
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PODZOL
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 2
+      input:
+        '1':
+          type: VANILLA
+          id: PODZOL
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: MYCELIUM
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_2:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&f末地石机 I-0'
+  machine-lore:
+  - ''
+  - '&7将圆石转换为末地石'
+  block-type: SKULL19f21f5d883316fd65a9366f32a33013182e3381dec21c17c78355d9bf4f0
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 16
+    energy-buffer: 64
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: NONE
+      id: N/A
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_2
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_0
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: END_STONE
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_4:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&f地狱岩机 I-0'
+  machine-lore:
+  - ''
+  - '&7将圆石转换为地狱岩'
+  block-type: SKULL556ca5c679336dd4f3262f4fbc23c1a2ee0d82a7fd81e6e62337e5fd5c7
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 16
+    energy-buffer: 64
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: NONE
+      id: N/A
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_4
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_0
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHERRACK
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_8:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&b猪灵交易机 I-0'
+  machine-lore:
+  - ''
+  - '&7用金锭交换物品'
+  block-type: SKULL5081a1239fffe135cbfa4a98a6aa6cc5b0787ad0790f56a16bf07f86374606c5
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 16
+    energy-buffer: 320
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: NONE
+      id: N/A
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_8
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_0
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: STRANGE_NETHER_GOO
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: STRANGE_NETHER_GOO
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: VANILLA
+          id: BLACKSTONE
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: BLACKSTONE
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: VANILLA
+          id: GRAVEL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GRAVEL
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: VANILLA
+          id: GRAVEL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GRAVEL
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_11:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&b苔石机 I-0'
+  machine-lore:
+  - ''
+  - '&7制作苔石'
+  block-type: SKULLdff91de55239b0b2f4bed139932ea09e597f4e2174eba63ced15f57dd8d0267b
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 8
+    energy-buffer: 64
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: NONE
+      id: N/A
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_11
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_0
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 1
+        '2':
+          type: VANILLA
+          id: VINE
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: MOSSY_COBBLESTONE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_3:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&b终界因子机 I-1'
+  machine-lore:
+  - ''
+  - '&7将末地石转化为终界因子'
+  block-type: SKULL19f21f5d883316fd65a9366f32a33013182e3381dec21c17c78355d9bf4f0
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 24
+    energy-buffer: 64
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: NONE
+      id: N/A
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_3
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_1
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: END_STONE
+          amount: 36
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_END_FACTOR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_5:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&b下界因子机 I-1'
+  machine-lore:
+  - ''
+  - '&7将地狱岩转换为下界因子'
+  block-type: SKULL1dd30e2fc5cb04461babc39423380187d3526509cd6d4c35c04f616f31b1b91f
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 24
+    energy-buffer: 64
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: NONE
+      id: N/A
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_5
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_1
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERRACK
+          amount: 36
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_NETHER_FACTOR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_7:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&b世界因子机 I-1'
+  machine-lore:
+  - ''
+  - '&7将圆石转换为世界因子'
+  block-type: SKULLcf3d4459f30f532e9b73b0cc3c6f3a10c20b3e68f1af3f49d2efe124cafcd222
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 32
+    energy-buffer: 320
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: NONE
+      id: N/A
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_7
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_1
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 36
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ANGLE_TECH_WORLD_FACTOR
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_12:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&b电路板机 I-1'
+  machine-lore:
+  - ''
+  - '&7将铁锭转换为基础电路板'
+  block-type: SKULLfcecba31f26919d92a3d6420cd2fa9112f8e108ac04e3fc71da7329cd10fe5ca
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 16
+    energy-buffer: 64
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: NONE
+      id: N/A
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_12
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_1
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: BASIC_CIRCUIT_BOARD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_13:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&b人造物机 I-2'
+  machine-lore:
+  - ''
+  - '&7将自然物转换为人造物'
+  block-type: SKULLd58f1a72eb52c7d681f79599c3bf7ea912f8c8afc8ee954be33eaa6bb4ce4fb
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 32
+    energy-buffer: 320
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_13
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_2
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 8
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SYNTHETIC_DIAMOND
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: LAPIS_LAZULI
+          amount: 8
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SYNTHETIC_SAPPHIRE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: EMERALD
+          amount: 8
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SYNTHETIC_EMERALD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ANGLE_TECH_MACHINES_16:
+  category: ANGLE_TECH_MACHINES_1
+  machine-name: '&b潜影盒机 I-2'
+  machine-lore:
+  - ''
+  - '&7将箱子转换为潜影盒'
+  block-type: SKULL9c4408e7e4d31648d62c52e894711ae08ae850557fadecccd4fccfbf7b0d4744
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 32
+    energy-buffer: 640
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: N/A
+      amount: 1
+    '2':
+      type: NONE
+      id: N/A
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_16
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_2
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: CHEST
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PURPLE_SHULKER_BOX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1

@@ -1,0 +1,121 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Generators
+ANGLE_TECH_ANGLE_GENERATOR_1:
+  category: ANGLE_TECH_GENERATOR_1
+  generator-name: '&e倾斜发电机 X-1'
+  generator-lore:
+  - ''
+  - '&7解析倾斜因子发电'
+  block-type: WHITE_STAINED_GLASS
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-production: 256
+    energy-buffer: 1280
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_1
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_1
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_PLATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_BULEPRINT_17
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_PLATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_1
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_1
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_1
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 600
+      input:
+        type: SLIMEFUN
+        id: ANGLE_TECH_ANGLE_FACTOR
+        amount: 1
+      output:
+        type: NONE
+        id: N/A
+        amount: N/A
+ANGLE_TECH_ANGLE_GENERATOR_2:
+  category: ANGLE_TECH_GENERATOR_1
+  generator-name: '&e倾斜发电机 X-2'
+  generator-lore:
+  - ''
+  - '&7解析倾斜因子发电'
+  block-type: GREEN_STAINED_GLASS
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-production: 512
+    energy-buffer: 10240
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_2
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ANGLE_TECH_PROBE_2
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CPU_2
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ENERGY_PLATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_GENERATOR_1
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANGLE_TECH_ENERGY_PLATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ANGLE_TECH_HOUSING_2
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANGLE_TECH_CAPACITORS_2
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 600
+      input:
+        type: SLIMEFUN
+        id: ANGLE_TECH_ANGLE_FACTOR
+        amount: 1
+      output:
+        type: NONE
+        id: N/A
+        amount: N/A

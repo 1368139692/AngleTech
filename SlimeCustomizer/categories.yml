@@ -1,0 +1,60 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Categories
+ANGLE_TECH:
+  type: nested
+  tier: 0
+  category-name: "&e倾斜科技"
+  category-item: SKULL785d157db6c9fcc1a5bb24c4590988849933bd355608cae3a6a420660676bc33
+ANGLE_TECH_NOTICE:
+  type: sub
+  category-name: "&e公告"
+  category-item: SKULL65e84f93e79312a1e2c53442ac5a08a9653c461184801b0c8098a73ed07d6ce7
+  parent: ANGLE_TECH
+
+ANGLE_TECH_REASOUE_1:
+  type: sub
+  category-name: "&e初级资源"
+  category-item: SKULLSKULL91c8a8c13851d3673d5825825e7f2dd418ffafeafd5fd15983eb8a62defd3cd5
+  parent: ANGLE_TECH
+ANGLE_TECH_MACHINES_1:
+  type: sub
+  category-name: "&e初级机器"
+  category-item: SKULL49095ed631201cf2eaf66f628445c23e8e2b6370ef3f5ff132721685a8ebc198
+  parent: ANGLE_TECH
+ANGLE_TECH_GENERATOR_1:
+  type: sub
+  category-name: "&e初级发电机"
+  category-item: SKULL7f9f356f5fe7d1bc92cddfaeba3ee773ac9df1cc4d1c2f8fe5f47013032c551d
+  parent: ANGLE_TECH
+ANGLE_TECH_MISC_1:
+  type: sub
+  category-name: "&e初级零件"
+  category-item: SKULLf854cf58f3ba6a538906e0c44fbd50b54f56152c77354d947a8f895c72436820
+  parent: ANGLE_TECH
+ANGLE_TECH_TOOLS:
+  type: sub
+  category-name: "&e武器&工具"
+  category-item: SKULLb6ea2135838461534372f2da6c862d21cd5f3d2c7119f2bb674bbd42791
+  parent: ANGLE_TECH
+
+ANGLE_TECH_ARMORS:
+  type: sub
+  category-name: "&e护甲"
+  category-item: SKULLe6677f2e4c7602a63c44ebdae5370e2481c55f634546989e8053ede585208846
+  parent: ANGLE_TECH
+
+ANGLE_TECH_CAPACITORS:
+  type: sub
+  category-name: "&e电容"
+  category-item: SKULLd1fd05be83ebb6bd699b1f41b2cad96816c82c6e0a7a8ac88e5d906ed4ef6049
+  parent: ANGLE_TECH
+
+ANGLE_TECH_INSPIRATION_1:
+  type: sub
+  category-name: "&e灵感&蓝图"
+  category-item: SKULL40dcf58827cd9dd16764c1e4271c4203690af6a4e63e586eb9b05cc6b3cf8fdf
+  parent: ANGLE_TECH
+ANGLE_TECH_GUIDE:
+  type: sub
+  category-name: "&e合成途径"
+  category-item: SKULL2cdc0feb7001e2c10fd5066e501b87e3d64793092b85a50c856d962f8be92c78
+  parent: ANGLE_TECH

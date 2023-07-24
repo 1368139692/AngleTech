@@ -1,0 +1,4971 @@
+#合成途径道具=======================================
+ANGLE_TECH_FACTOR_MACHINE_GUIDE:
+  category: ANGLE_TECH_GUIDE
+  item-type: CUSTOM
+  item-name: "&b解析机配方"
+  item-lore:
+  - "&7该物品在解析机中制作"
+  item-id: SKULLbc85e2fdf9b1b020ac2827d11ae00d90f81c5c6bd361cbd1c8b8e9087757e4b0
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_LATHE_GUIDE:
+  category: ANGLE_TECH_GUIDE
+  item-type: CUSTOM
+  item-name: "&b倾斜车床配方"
+  item-lore:
+  - "&7该物品在倾斜车床中制作"
+  item-id: SKULL77a36b2e6e070c3dfa1c25719b376fa02d584d70206d18a569a79baa72e70928
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_COMPILE_GUIDE:
+  category: ANGLE_TECH_GUIDE
+  item-type: CUSTOM
+  item-name: "&b编译器配方"
+  item-lore:
+  - "&7该物品在倾斜车床中制作"
+  item-id: SKULL49095ed631201cf2eaf66f628445c23e8e2b6370ef3f5ff132721685a8ebc198
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_MACHINES_9_GUIDE:
+  category: ANGLE_TECH_GUIDE
+  item-type: CUSTOM
+  item-name: "&b高斯赋磁机配方"
+  item-lore:
+  - "&7该物品在高斯赋磁机中制作"
+  item-id: SKULL7999050775dd5a524735284cbbac45aa392c0ac8fa980bd24c331552b654b824
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+ANGLE_TECH_MACHINES_10_GUIDE:
+  category: ANGLE_TECH_GUIDE
+  item-type: CUSTOM
+  item-name: "&b艾因斯通赋能机配方"
+  item-lore:
+  - "&7该物品在艾因斯通赋能机中制作"
+  item-id: SKULLe64f2601435a4a2fa3a6d45ba03ec6930857f7738a9111eadde90b6db4531d0b
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+ANGLE_TECH_MACHINES_14_GUIDE:
+  category: ANGLE_TECH_GUIDE
+  item-type: CUSTOM
+  item-name: "&b工具锻造台配方"
+  item-lore:
+  - "&7该物品在工具锻造台中制作"
+  item-id: SKULLd3567ac356302583147f464af21dcb5d7ebcb22aab2847554c79b751f5bf48
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+ANGLE_TECH_MACHINES_15_GUIDE:
+  category: ANGLE_TECH_GUIDE
+  item-type: CUSTOM
+  item-name: "&b护甲锻造台配方"
+  item-lore:
+  - "&7该物品在护甲锻造台中制作"
+  item-id: SKULL93537c73aeabd81b81156c812852a5cf35281ad82b2af25e7cbb493d4bfb
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+###公告============================================
+ANGLE_TECH_NOTICE_1:
+  category: ANGLE_TECH_NOTICE
+  item-type: CUSTOM
+  item-name: "&b制作人员"
+  item-lore:
+  - "&7制作人:LIGH_T/1368139692/LIGH_TTT"
+  - "&7官方群聊:895650188"
+  - "&7目前版本:1.0.0"
+  - "&7所有物品制作灵感皆来自作者脑子"
+  - "&7若与其他插件有所雷同，纯属巧合"
+  item-id: SKULL307d15b4653795efbc7e4ebc734b50000ce9053b5c54bebe6751003d7733c0bb
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+ANGLE_TECH_NOTICE_2:
+  category: ANGLE_TECH_NOTICE
+  item-type: CUSTOM
+  item-name: "&b使用须知"
+  item-lore:
+  - "&7你不得转载该插件"
+  - "&7你不得声明该插件是由你所制作的"
+  - "&7你可以对该附属进行魔改并在自己的服务器里使用"
+  - "&7你不可以对该附属进行魔改并发布公开"
+  - "&7若想对该附属进行魔改并发布请加官方群咨询群主（说一声让我知道就行了=_=）"
+  - "&7有什么好的建议也可以通过Q群/GitHub反馈给我哟"
+  - "&7该插件完全由我本人制作，不存在第二位制作者（截至1.0.0版本）"
+  item-id: ITEM_FRAME
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+ANGLE_TECH_NOTICE_3:
+  category: ANGLE_TECH_NOTICE
+  item-type: CUSTOM
+  item-name: "&b未来规划（画大饼）"
+  item-lore:
+  - "&7更新周期可能会有亿点长 比较作者是高中牲 :("
+  - "&7主线机器会更新到 X-9"
+  - "&7后续会增加新矿物"
+  - "&7X-3是一个大分水岭，所需资源成倍增加"
+  - "&7X-3级别机器将使用机械集成制作"
+  - "&7将会有锋利100的附魔机"
+  item-id: ITEM_FRAME
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+ANGLE_TECH_NOTICE_4:
+  category: ANGLE_TECH_NOTICE
+  item-type: CUSTOM
+  item-name: "&b关于代码"
+  item-lore:
+  - "&7其实就是一时兴起写的插件"
+  - "&7道具那块还好 机器那里简直乱得跟shi一样"
+  - "&7以后有时间再改吧[doge]"
+  item-id: ITEM_FRAME
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+###资源=============================================
+##因子
+ANGLE_TECH_WORLD_FACTOR:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b世界因子&7"
+  item-lore:
+  - ""
+  - "&7这是另一条道路"
+  item-id: SKULL92824d469c93e454a0b23d2f0c42fd6ca54a8b54e690ec9059cc9e5a3e6d9f90
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: GOLD_4K
+      amount: 1
+    2:
+      type: VANILLA
+      id: IRON_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ZINC_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: TIN_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ALUMINUM_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: LEAD_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+
+ANGLE_TECH_END_FACTOR_1:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b终界因子&7(α)"
+  item-lore:
+  - ""
+  - "&7这是另一条道路"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_FACTOR_MACHINE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_END_FACTOR_2:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b终界因子&7(β)"
+  item-lore:
+  - ""
+  - "&7这是另一条道路"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_FACTOR_MACHINE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_END_FACTOR_3:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b终界因子&7(γ)"
+  item-lore:
+  - ""
+  - "&7这是另一条道路"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_FACTOR_MACHINE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_END_FACTOR:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b终界因子"
+  item-lore:
+  - ""
+  - "&7这是另一条道路"
+  item-id: SKULL7767a0cacdd7316d40e69f6bb923cb6b8bf2d8249918d8d1b94f2bf469d5cefc
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR_1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR_1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR_1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR_2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR_2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR_2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR_3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR_3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR_3
+      amount: 1
+ANGLE_TECH_NETHER_FACTOR_1:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b下界因子&7(α)"
+  item-lore:
+  - ""
+  - "&7这是另一条道路"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_FACTOR_MACHINE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_NETHER_FACTOR_2:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b下界因子&7(β)"
+  item-lore:
+  - ""
+  - "&7这是另一条道路"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_FACTOR_MACHINE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_NETHER_FACTOR_3:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b下界因子&7(γ)"
+  item-lore:
+  - ""
+  - "&7这是一条新道路"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_FACTOR_MACHINE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_NETHER_FACTOR:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b下界因子"
+  item-lore:
+  - ""
+  - "&7这是另一条道路"
+  item-id: SKULL74b662d3b529a187261cab86c6e56423bf876aa249d030faeaf34362f3447277
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR_1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR_1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR_1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR_2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR_2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR_2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR_3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR_3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR_3
+      amount: 1
+ANGLE_TECH_ANGLE_FACTOR:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&6倾斜因子"
+  item-lore:
+  - ""
+  - "&7这是起点"
+  item-id: SKULLf26dad74b2bab105cb68c94eb3be32f5dbda42eab944b6ed9e803136f8f619bc
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ANGLE_TECH_NETHER_FACTOR
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ANGLE_TECH_END_FACTOR
+      amount: 1
+ANGLE_TECH_ANGLE_INGOT:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b&l倾斜合金"
+  item-lore:
+  item-id: SKULL9f13197c6a7cf52570fe564aab9944a9043bdf7d957479311ece0225e1d38df4
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_LATHE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+ANGLE_TECH_GAUSSIAN_POWER:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b高斯能"
+  item-lore:
+  - ""
+  - "&7磁力可视化"
+  item-id: SKULL91c8a8c13851d3673d5825825e7f2dd418ffafeafd5fd15983eb8a62defd3cd5
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_9_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_EINSTON_POWER:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b艾因斯通能"
+  item-lore:
+  - ""
+  - "&7能量可视化"
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_10_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+ANGLE_TECH_GAUSSIAN_INGOT:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&b高斯合金"
+  item-lore:
+  - ""
+  - "&7其中蕴含着磁力"
+  item-id: SKULL77400ea19dbd84f75c39ad6823ac4ef786f39f48fc6f84602366ac29b837422
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_9_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+ANGLE_TECH_ENERGY_INGOT:
+  category: ANGLE_TECH_REASOUE_1
+  item-type: CUSTOM
+  item-name: "&6高能合金"
+  item-lore:
+  - ""
+  - "&7其中蕴含着能量"
+  item-id: SKULL90983c56c26cc273aadb05c74dcfbc616f69a7c1dbcbec102ffd8b63ae6b5f
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_10_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+###科技零件========================================
+##晶体管/探针
+ANGLE_TECH_EINSTON:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b艾因斯通晶体管"
+  item-lore:
+  - ""
+  - "&7可聚焦高强度激光射线"
+  - "&7常用于高精度激光车床"
+  - "&7By EINSTON"
+  item-id: END_ROD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HARDENED_GLASS
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HARDENED_GLASS
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HARDENED_GLASS
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+ANGLE_TECH_PROBE:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b艾因斯通探针"
+  item-lore:
+  - ""
+  - "&7可进行纳米级别的操作"
+  item-id: SKULLf805d55f21b49a074cd5e3dc244a5a070e5544b54fa9254d2dc2e18f1e6802f9
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_LATHE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+ANGLE_TECH_PROBE_2:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&6高能艾因斯通探针"
+  item-lore:
+  - ""
+  - "&7可进行纳米级别的操作"
+  - "&7可以切割高能金属"
+  item-id: SKULL18e25a88df3e71d8207fba1c434c105c783f33c3ba7edd1597d7eeaa27671c1f
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_10_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+##机械框架
+ANGLE_TECH_HOUSING_0:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b入门机械框架"
+  item-lore:
+  - ""
+  - "&7这是入门的机械框架"
+  - "&7用于制作机器"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+
+ANGLE_TECH_HOUSING_1:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b机械框架 X-1"
+  item-lore:
+  - ""
+  - "&7这是最基础的机械框架"
+  - "&7用于制作机器"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_LATHE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+ANGLE_TECH_HOUSING_2:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b机械框架 X-2"
+  item-lore:
+  - ""
+  - "&7这是最初级的机械框架"
+  - "&7用于制作机器和总成"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_LATHE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_HOUSING_3:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b机械框架 X-3"
+  item-lore:
+  - ""
+  - "&7这是最终的机械框架"
+  - "&7用于制作机器和总成"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_LATHE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+##其他
+ANGLE_TECH_CPU_0:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b入门处理器"
+  item-lore:
+  - ""
+  - "&7可处理简单的数据"
+  item-id: SKULL6f9a2c9e35b7381efcc3851b664cd8de21ffc6f377070f8193cdaf18cd95876c
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: COPPER_WIRE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: COPPER_WIRE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANDROID_MEMORY_CORE
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: COPPER_WIRE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: COPPER_WIRE
+      amount: 1
+
+ANGLE_TECH_CPU_1:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b处理器 X-1"
+  item-lore:
+  - ""
+  - "&7可处理较为复杂的数据"
+  item-id: SKULL5bfa6eab81e21bdbfbb987ed695a4596ed33e77510908dadf696912f9423f75
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_LATHE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+ANGLE_TECH_CPU_2:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b处理器 X-2"
+  item-lore:
+  - ""
+  - "&7可处理复杂的数据"
+  item-id: SKULL5bfa6eab81e21bdbfbb987ed695a4596ed33e77510908dadf696912f9423f75
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_LATHE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+ANGLE_TECH_ANGLE_PLATE:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b&l倾斜合金板"
+  item-lore:
+  item-id: PAPER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_INGOT
+      amount: 8
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_MAGNET_1:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b强磁电磁铁"
+  item-lore:
+  - ""
+  - "&7它的磁力有所提升"
+  item-id: SKULLaba8ebc4c6a81730947499bf7e1d5e73fed6c1bb2c051e96d35eb16d24610e7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: NICKEL_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: REDSTONE_ALLOY
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: COBALT_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: NICKEL_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: COBALT_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: NICKEL_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: REDSTONE_ALLOY
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: COBALT_INGOT
+      amount: 1
+
+ANGLE_TECH_MOTOR_1:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b高斯马达"
+  item-lore:
+  - ""
+  - "&7采用新工艺制作的马达"
+  - "&7能量损耗率只有10%"
+  item-id: SKULL194aba48831c5581b0c4dd1426a794273290f66001bcd1c3b7a01132b213af00
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_9_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+ANGLE_TECH_REDSTONE_ALLOY_PLATE:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b红石合金板"
+  item-lore:
+  item-id: SKULLf8d5a38d6bfca597864173363d284a8d329caad9018c6381b1b4299b8b8b911c
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: REDSTONE_ALLOY
+      amount: 8
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+ANGLE_TECH_GAUSSIAN_PLATE:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b高斯合金板"
+  item-lore:
+  item-id: PAPER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ANGLE_TECH_GAUSSIAN_INGOT
+      amount: 8
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_ENERGY_PLATE:
+  category: ANGLE_TECH_MISC_1
+  item-type: CUSTOM
+  item-name: "&b高能合金板"
+  item-lore:
+  item-id: PAPER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ANGLE_TECH_ENERGY_INGOT
+      amount: 8
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+###武器&工具=============================================
+ANGLE_TECH_SWORD_1:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_SWORD_1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+ANGLE_TECH_PICKAXE_1:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_PICKAXE_1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_PICKAXE_2:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_PICKAXE_2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_AXE_1:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_AXE_1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_SHOVEL_1:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_SHOVEL_1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_BOW_1:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_BOW_1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_SWORD_2:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_SWORD_2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_PICKAXE_1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_PICKAXE_2:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_PICKAXE_2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_AXE_2:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_AXE_2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_SHOVEL_2:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_SHOVEL_2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+ANGLE_TECH_BOW_2:
+  category: ANGLE_TECH_TOOLS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_BOW_2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_14_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+###护甲=============================================
+ANGLE_TECH_HELMET_1:
+  category: ANGLE_TECH_ARMORS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_HELMET_1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_15_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+ANGLE_TECH_CHESTPLATE_1:
+  category: ANGLE_TECH_ARMORS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_CHESTPLATE_1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_15_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+ANGLE_TECH_LEGGINGS_1:
+  category: ANGLE_TECH_ARMORS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_LEGGINGS_1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_15_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+ANGLE_TECH_BOOTS_1:
+  category: ANGLE_TECH_ARMORS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_BOOTS_1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_15_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+ANGLE_TECH_HELMET_2:
+  category: ANGLE_TECH_ARMORS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_HELMET_2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_15_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+ANGLE_TECH_CHESTPLATE_2:
+  category: ANGLE_TECH_ARMORS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_CHESTPLATE_2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_15_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+ANGLE_TECH_LEGGINGS_2:
+  category: ANGLE_TECH_ARMORS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_LEGGINGS_2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_15_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+ANGLE_TECH_BOOTS_2:
+  category: ANGLE_TECH_ARMORS
+  item-type: SAVEDITEM
+  item-name: 
+  item-lore:
+  item-id: ANGLE_TECH_BOOTS_2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_MACHINES_15_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+
+
+
+
+
+###编译模板=======================================================
+ANGLE_TECH_INSPIRATION_1:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面........."
+  - "&7——泥土是最珍贵的。"
+  item-id: SKULL26440ab7c2821b6913e54905ba514cfabaf4d025618f328759b5906974c7e7cb
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: PODZOL
+      amount: 1
+    2:
+      type: VANILLA
+      id: GRASS_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: MYCELIUM
+      amount: 1
+    4:
+      type: VANILLA
+      id: PODZOL
+      amount: 1
+    5:
+      type: VANILLA
+      id: GRASS_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: MYCELIUM
+      amount: 1
+    7:
+      type: VANILLA
+      id: PODZOL
+      amount: 1
+    8:
+      type: VANILLA
+      id: GRASS_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: MYCELIUM
+      amount: 1
+ANGLE_TECH_BULEPRINT_1:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b土壤转换机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_2:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——一望无际的虚无。"
+  item-id: SKULL19f21f5d883316fd65a9366f32a33013182e3381dec21c17c78355d9bf4f0
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    2:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    3:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    4:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    5:
+      type: VANILLA
+      id: DIAMOND_PICKAXE
+      amount: 1
+    6:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    7:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    8:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    9:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+ANGLE_TECH_BULEPRINT_2:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b末地石机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+
+ANGLE_TECH_INSPIRATION_3:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——这里曾经是怎样的呢？"
+  item-id: SKULL19f21f5d883316fd65a9366f32a33013182e3381dec21c17c78355d9bf4f0
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    2:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    3:
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    4:
+      type: VANILLA
+      id: ENDER_PEARL
+      amount: 1
+    5:
+      type: VANILLA
+      id: ENDER_PEARL
+      amount: 1
+    6:
+      type: VANILLA
+      id: ENDER_PEARL
+      amount: 1
+    7:
+      type: VANILLA
+      id: CHORUS_FRUIT
+      amount: 1
+    8:
+      type: VANILLA
+      id: CHORUS_FRUIT
+      amount: 1
+    9:
+      type: VANILLA
+      id: CHORUS_FRUIT
+      amount: 1
+ANGLE_TECH_BULEPRINT_3:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b终界因子机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_4:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——火焰何时才能熄灭呢？"
+  item-id: SKULL556ca5c679336dd4f3262f4fbc23c1a2ee0d82a7fd81e6e62337e5fd5c7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    2:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    3:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    4:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    5:
+      type: VANILLA
+      id: DIAMOND_PICKAXE
+      amount: 1
+    6:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    7:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    8:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    9:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+ANGLE_TECH_BULEPRINT_4:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b地狱岩机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_5:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——这是少有的生机。"
+  item-id: SKULL1dd30e2fc5cb04461babc39423380187d3526509cd6d4c35c04f616f31b1b91f
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    2:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    3:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    4:
+      type: VANILLA
+      id: BLAZE_ROD
+      amount: 1
+    5:
+      type: VANILLA
+      id: BLAZE_ROD
+      amount: 1
+    6:
+      type: VANILLA
+      id: BLAZE_ROD
+      amount: 1
+    7:
+      type: VANILLA
+      id: NETHER_WART
+      amount: 1
+    8:
+      type: VANILLA
+      id: NETHER_WART
+      amount: 1
+    9:
+      type: VANILLA
+      id: NETHER_WART
+      amount: 1
+ANGLE_TECH_BULEPRINT_5:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b下界因子机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_6:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——人为财死，鸟为食亡。"
+  item-id: SKULL9ea98e8d6c5642e32ab569dabf93cd690460c49477ca9b9dbf7259b37951f2ad
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: COAL_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: NETHERITE_PICKAXE
+      amount: 1
+    6:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+ANGLE_TECH_BULEPRINT_6:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b倾斜矿机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_7:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——这是我最熟悉的..."
+  item-id: SKULL26440ab7c2821b6913e54905ba514cfabaf4d025618f328759b5906974c7e7cb
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ANGLE_TECH_WORLD_FACTOR
+      amount: 1
+ANGLE_TECH_BULEPRINT_7:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b世界因子机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_8:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——我们的友谊，建立在利益之上。"
+  item-id: SKULL5081a1239fffe135cbfa4a98a6aa6cc5b0787ad0790f56a16bf07f86374606c5
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    '2':
+      type: VANILLA
+      id: GOLDEN_HELMET
+      amount: 1
+    '3':
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    '4':
+      type: VANILLA
+      id: GOLDEN_CHESTPLATE
+      amount: 1
+    '5':
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    '6':
+      type: VANILLA
+      id: GOLDEN_LEGGINGS
+      amount: 1
+    '7':
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    '8':
+      type: VANILLA
+      id: GOLDEN_BOOTS
+      amount: 1
+    '9':
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+ANGLE_TECH_BULEPRINT_8:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b猪灵交易机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_9:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——同性相吸，异性相斥。"
+  item-id: SKULLaba8ebc4c6a81730947499bf7e1d5e73fed6c1bb2c051e96d35eb16d24610e7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: NICKEL_INGOT
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: COBALT_INGOT
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+ANGLE_TECH_BULEPRINT_9:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b高斯赋磁机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_10:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——E=mc。"
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: MEDIUM_CAPACITOR
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ENERGY_CONNECTOR
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: MEDIUM_CAPACITOR
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ENERGY_CONNECTOR
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ENERGY_REGULATOR
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ENERGY_CONNECTOR
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: MEDIUM_CAPACITOR
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ENERGY_CONNECTOR
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: MEDIUM_CAPACITOR
+      amount: 1
+ANGLE_TECH_BULEPRINT_10:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b艾因斯通赋能机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_11:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——终有一日，它会破开石头。"
+  item-id: SKULLdff91de55239b0b2f4bed139932ea09e597f4e2174eba63ced15f57dd8d0267b
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: VINE
+      amount: 1
+    2:
+      type: VANILLA
+      id: MOSSY_COBBLESTONE
+      amount: 1
+    3:
+      type: VANILLA
+      id: COBBLESTONE
+      amount: 1
+    4:
+      type: VANILLA
+      id: VINE
+      amount: 1
+    5:
+      type: VANILLA
+      id: MOSSY_COBBLESTONE
+      amount: 1
+    6:
+      type: VANILLA
+      id: COBBLESTONE
+      amount: 1
+    7:
+      type: VANILLA
+      id: VINE
+      amount: 1
+    8:
+      type: VANILLA
+      id: MOSSY_COBBLESTONE
+      amount: 1
+    9:
+      type: VANILLA
+      id: COBBLESTONE
+      amount: 1
+ANGLE_TECH_BULEPRINT_11:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b苔石机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_12:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——手足相残，值得吗？"
+  item-id: SKULLfcecba31f26919d92a3d6420cd2fa9112f8e108ac04e3fc71da7329cd10fe5ca
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: POPPY
+      amount: 1
+    2:
+      type: VANILLA
+      id: CARVED_PUMPKIN
+      amount: 1
+    3:
+      type: VANILLA
+      id: POPPY
+      amount: 1
+    4:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: POPPY
+      amount: 1
+    8:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: POPPY
+      amount: 1
+ANGLE_TECH_BULEPRINT_12:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b电路板机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_13:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——记忆也会有变为人造物的一天吗？"
+  item-id: SKULLd58f1a72eb52c7d681f79599c3bf7ea912f8c8afc8ee954be33eaa6bb4ce4fb
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SYNTHETIC_SAPPHIRE
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SYNTHETIC_SAPPHIRE
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SYNTHETIC_SAPPHIRE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SYNTHETIC_EMERALD
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SYNTHETIC_EMERALD
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SYNTHETIC_EMERALD
+      amount: 1
+ANGLE_TECH_BULEPRINT_13:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b人造物机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_14:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——断剑重铸！"
+  item-id: SKULLd58f1a72eb52c7d681f79599c3bf7ea912f8c8afc8ee954be33eaa6bb4ce4fb
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: VANILLA
+      id: NETHERITE_SWORD
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: VANILLA
+      id: NETHERITE_PICKAXE
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: VANILLA
+      id: NETHERITE_AXE
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: NETHERITE_SHOVEL
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_BULEPRINT_14:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b工具锻造台蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_15:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——心灵上的伤害远痛于肉体上的。"
+  item-id: SKULLd58f1a72eb52c7d681f79599c3bf7ea912f8c8afc8ee954be33eaa6bb4ce4fb
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: VANILLA
+      id: NETHERITE_HELMET
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: VANILLA
+      id: NETHERITE_CHESTPLATE
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: VANILLA
+      id: NETHERITE_LEGGINGS
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: NETHERITE_BOOTS
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_BULEPRINT_15:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b护甲锻造台蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_16:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——飞得越高，摔得越痛。"
+  item-id: SKULL9c4408e7e4d31648d62c52e894711ae08ae850557fadecccd4fccfbf7b0d4744
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: SHULKER_SHELL
+      amount: 1
+    2:
+      type: VANILLA
+      id: SHULKER_SHELL
+      amount: 1
+    3:
+      type: VANILLA
+      id: SHULKER_SHELL
+      amount: 1
+    4:
+      type: VANILLA
+      id: SHULKER_SHELL
+      amount: 1
+    5:
+      type: VANILLA
+      id: PURPLE_SHULKER_BOX
+      amount: 1
+    6:
+      type: VANILLA
+      id: SHULKER_SHELL
+      amount: 1
+    7:
+      type: VANILLA
+      id: SHULKER_SHELL
+      amount: 1
+    8:
+      type: VANILLA
+      id: SHULKER_SHELL
+      amount: 1
+    9:
+      type: VANILLA
+      id: SHULKER_SHELL
+      amount: 1
+ANGLE_TECH_BULEPRINT_16:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b潜影盒机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_17:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——电气时代。"
+  item-id: SKULL5d3ffada60324832a9017aa5c6b989dcf2d9df2c6e0a188ab853e7465be9686a
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_FACTOR
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_FACTOR
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_FACTOR
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_FACTOR
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: COAL_GENERATOR_2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_FACTOR
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_FACTOR
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_FACTOR
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ANGLE_TECH_ANGLE_FACTOR
+      amount: 1
+ANGLE_TECH_BULEPRINT_17:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b倾斜发电机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ANGLE_TECH_INSPIRATION_18:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&a灵感"
+  item-lore:
+  - ""
+  - "&7我...无法理解......"
+  - "&7我...泪流满面......"
+  - "&7——自动化的开始。"
+  item-id: SKULL59a30577907a13bad67c096069f96e53fb21ee2750174e42d1c7626f35ec1543
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ELECTRIC_ORE_GRINDER_3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ELECTRIC_ORE_GRINDER_3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ELECTRIC_ORE_GRINDER_3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ELECTRIC_GOLD_PAN_3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ELECTRIC_GOLD_PAN_3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ELECTRIC_GOLD_PAN_3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ELECTRIC_DUST_WASHER_3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ELECTRIC_DUST_WASHER_3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ELECTRIC_DUST_WASHER_3
+      amount: 1
+ANGLE_TECH_BULEPRINT_18:
+  category: ANGLE_TECH_INSPIRATION_1
+  item-type: CUSTOM
+  item-name: "&b倾斜粉尘机蓝图"
+  item-lore:
+  - ""
+  - "&7机器蓝图"
+  item-id: SKULLb79296ea6a339ed51f1d751bc707dee4c35af93e1bae30de47d56d9eaa96ba95
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANGLE_TECH_COMPILE_GUIDE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1

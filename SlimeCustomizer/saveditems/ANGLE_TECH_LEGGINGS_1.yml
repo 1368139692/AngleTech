@@ -1,0 +1,12 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2586
+  type: DIAMOND_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"light_purple","text":"倾斜护腿
+      T-1"}],"text":""}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 7
+      DURABILITY: 7
